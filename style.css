@@ -1,7 +1,12 @@
  body {
     font-family: Open+Sans:400,300,700|Montserrat:400,700;
+	 background-color:#dce4f2;
 }
-
+ div {
+    text-align: center;
+	 background-color:white; 
+	 color:#343538;
+}
 /* Style all font awesome icons */
 .fa {
   padding: 20px;
@@ -26,3 +31,4 @@
 img {
 
 } 
+
