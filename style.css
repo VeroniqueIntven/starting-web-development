@@ -1,11 +1,31 @@
  body {
     font-family: Open+Sans:400,300,700|Montserrat:400,700;
 	 background-color:#dce4f2;
+	 
 }
  div {
     text-align: center;
 	 background-color:white; 
 	 color:#343538;
+	 width: 50%;
+}
+ p {
+    font-size: 14px;
+}
+ h1 {
+    font-size: 20px;
+	 color:#db4813;
+	 font-weight: bold;
+}
+ h2 {
+    font-size: 18px;
+	 color:#343538;
+	 font-weight: bold;
+}
+ h3 {
+    font-size: 16px;
+	 color:#343538;
+	 font-weight: bold;
 }
 /* Style all font awesome icons */
 .fa {
