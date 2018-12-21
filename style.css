@@ -10,13 +10,20 @@
 	 background-color:white; 
 	 color:#343538;
 	 width: 50%;
+	 padding:1em;
 }
  button {
-    text-align: center;
-	 float: center;
-	 background-color:red; 
-	 color:#white;
-	 width: 50%;
+  border-radius: 8px;
+  background-color:#db4813;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
  p {
     font-size: 14px;
@@ -25,11 +32,13 @@
     font-size: 20px;
 	 color:#db4813;
 	 font-weight: bold;
+	 text-align:center;
 }
  h2 {
     font-size: 18px;
 	 color:#343538;
 	 font-weight: bold;
+	 text-align:center;
 }
  h3 {
     font-size: 16px;
