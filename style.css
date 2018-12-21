@@ -20,9 +20,7 @@
 .wrapper{
 	display:grid;
 	grid-template-columns: 40% 40%;
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
+	float: center;
 }
 ul {
   list-style-type: none;
