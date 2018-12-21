@@ -19,7 +19,7 @@
 	} 
 .wrapper{
 	display:grid;
-	grid-template-columns: 50% 50%;
+	grid-template-columns: auto auto;
 	
 }
 ul {
@@ -29,9 +29,6 @@ ul {
   padding-left: 2em;
   overflow: hidden;
   text-align:center;
-  float: right;
-  position: relative;
-  left: -50%;	
 
 }
 
