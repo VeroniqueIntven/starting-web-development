@@ -4,9 +4,18 @@
 	 
 }
  div {
-    text-align: center;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
 	 background-color:white; 
 	 color:#343538;
+	 width: 50%;
+}
+ button {
+    text-align: center;
+	 float: center;
+	 background-color:red; 
+	 color:#white;
 	 width: 50%;
 }
  p {
