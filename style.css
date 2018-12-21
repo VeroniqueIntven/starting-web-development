@@ -19,7 +19,7 @@
 	} 
 .wrapper{
 	display:grid;
-	grid-template-columns: 45% 45%;
+	grid-template-columns: 100% 100%;
 }
 ul {
   list-style-type: none;
