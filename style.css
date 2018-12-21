@@ -1,4 +1,8 @@
- /* Style all font awesome icons */
+ body {
+    font-family: Open+Sans:400,300,700|Montserrat:400,700;
+}
+
+/* Style all font awesome icons */
 .fa {
   padding: 20px;
   font-size: 30px;
