@@ -1,6 +1,6 @@
  body {
     font-family: Open+Sans:400,300,700|Montserrat:400,700;
-	 background-color:#dce4f2;
+	 background-color:#e5e5e5;
 	 
 }
  div {
@@ -20,7 +20,7 @@
   margin-left: auto;
   margin-right: auto;
  border-radius: 50%;
- border: 2px solid #dce4f2;
+ border: 2px solid #e5e5e5;
   
 }
  button {
