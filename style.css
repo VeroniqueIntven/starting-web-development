@@ -26,7 +26,7 @@
  button {
 	 
   border-radius: 8px;
-  background-color:#db4813;
+  background-color:#dd0b0b;
   border: none;
   color: white;
   padding: 20px;
@@ -48,7 +48,7 @@
 }
  h1 {
     font-size: 24px;
-	 color:#db4813;
+	 color:#dd0b0b;
 	 font-weight: 900;
 	 text-align:center;
 }
