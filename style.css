@@ -17,7 +17,10 @@
 	 border: 2px solid white;
 	 padding: 10px;
 	} 
-
+.wrapper{
+	display:grid;
+	grid-template-columns: 50% 50%;
+}
 ul {
   list-style-type: none;
   margin: 0;
