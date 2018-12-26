@@ -16,7 +16,7 @@
 	 border-radius: 8px;
 	 border: 2px solid white;
 	 padding: 10px;
-	 text-align:center;
+	
 	} 
 td {
 	 text-align:left;
@@ -41,8 +41,6 @@ li {
 
 li a {
   display: block;
-  
-  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -63,7 +61,7 @@ color:#343538;
  border: 2px solid #e5e5e5;
   
 }
- button {
+ .button {
 	 
   border-radius: 8px;
   background-color:#dd0b0b;
