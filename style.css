@@ -1,6 +1,6 @@
  body {
-    font-family: Open+Sans:400,300,700|Montserrat:400,700;
-	 background-color:#e5e5e5;
+    font-family: Open+Sans: 400,300,700|Montserrat:400,700;
+	 background-color: #e5e5e5;
 	 
 }
  div {
@@ -8,19 +8,19 @@
     margin-left: auto;
     margin-right: auto;
 	 margin-top: 1em;
-	 margin-bottom:1em;
-	 background-color:white; 
-	 color:#343538;
-	 width:50%;
-	 padding:1em;
+	 margin-bottom: 1em;
+	 background-color: white; 
+	 color :#343538;
+	 width: 50%;
+	 padding: 1em;
 	 border-radius: 8px;
 	 border: 2px solid white;
 	 padding: 10px;
 	
 	} 
 td {
-	 text-align:left;
-	padding:1em;
+	 text-align: left;
+	padding: 1em;
 } 
 
 ul {
@@ -33,21 +33,21 @@ ul {
 }
 
 li {
-	color:#a09292;
-	float:left;
+	color: #a09292;
+	float: left;
 }
 
 li a {
  display: block;
   padding: 14px 16px;
   text-decoration: none;
-  color:#a09292;
+  color: #a09292;
 }
 
 
 a {
 
-	text-decoration:none;
+	text-decoration: none;
 
 }
 
@@ -63,10 +63,10 @@ a {
  .button {
   width: 200px;	 
   border-radius: 8px;
-  background-color:#dd0b0b;
+  background-color: #dd0b0b;
   border: none;
   color: #ffffff;
-	 font-weight:bold;
+	 font-weight: bold;
   padding: 20px;
   text-align: center;
   text-decoration: none;
