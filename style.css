@@ -18,6 +18,9 @@
 	 padding: 10px;
 	 text-align:center;
 	} 
+td {
+	 text-align:left;
+} 
 
 ul {
   list-style-type: none;
