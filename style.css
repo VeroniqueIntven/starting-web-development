@@ -25,9 +25,8 @@ td {
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: block;
+ 
+  
   margin-left: auto;
   margin-right: auto;
   overflow: hidden;
@@ -36,15 +35,15 @@ ul {
 }
 
 li {
-	color:#e5e5e5;
+	color:#a09292;
 	
 }
 
 li a {
-  display: block;
+ 
   padding: 14px 16px;
   text-decoration: none;
-  color:#e5e5e5;
+  color:#a09292;
 }
 
 
