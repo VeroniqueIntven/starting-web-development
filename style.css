@@ -27,7 +27,10 @@ td {
 	padding: 1em;
 } 
 
-
+ul {
+	list-style-type: none;
+	
+}
 
 li {
 	color: #a09292;
