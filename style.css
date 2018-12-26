@@ -31,23 +31,25 @@ ul {
   margin-left: auto;
   margin-right: auto;
   overflow: hidden;
-  text-align:center;
+  
 
 }
 
 li {
 	color:#343538;
+	display: block;
 }
 
 li a {
   display: block;
   padding: 14px 16px;
   text-decoration: none;
+  color:#343538;
 }
 
 
 a {
-color:#343538;
+
 	text-decoration:none;
 
 }
