@@ -23,24 +23,15 @@ td {
 	padding: 1em;
 } 
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
- 
-  overflow: hidden;
 
-}
 
 li {
 	color: #a09292;
-	float: left;
+	
 }
 
 li a {
- display: block;
-  padding: 14px 16px;
-  text-decoration: none;
+
   color: #a09292;
 }
 
